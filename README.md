@@ -50,7 +50,7 @@ de circulación e infartos, eliminar por completo la carne de nuestra dieta no e
  4. Riesgo de sufrir cambios en el estado de ánimo, ausencia de motivación, apatía, problemas de memoria, debilidad muscular, cansancio
 
 ![ Vegana](vegana.jpg)
-
+! [Vegan]_(vegano.jpg)
 ####  Referencia 
 [Veganismo][https://proveg.com/es/alimentos-vegetales-y-estilo-de-vida/vegan-diet/]
 
